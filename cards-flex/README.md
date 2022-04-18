@@ -50,7 +50,9 @@ flex: 1 1 15em;
 ```
 width nya ngga usah di atur lagi, karena sudah digantikan oleh nilai `flex-basis`.
 
-[<img src="asset/responsive-card-3.gif" width="50%" />](asset/responsive-card-3.gif)
+[<img src="asset/responsive-card-3.gif" width="50%" />](asset/responsive-card-3.gif).
+
+Cek [Demo Cards Flexbox](https://fitrifityanto.github.io/practice-CSS-flex/cards-flex/index.html)
 
 
 
