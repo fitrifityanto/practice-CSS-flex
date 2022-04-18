@@ -5,6 +5,7 @@ Membuat beberapa card tanpa memikirkan desain tampilan di tablet atau smartphone
 Disini saya akan mencoba mempraktekkannya. Untuk menjadi perhatian, bahwa saya baru belajar, jadi jika pembaca menemukan hal yang lebih efektif dan lebih keren, jangan ragu untuk memberitahu saya ^_^.
 
 Oke, misalnya saya punya 3 card testimoni seperti ini
+
 [<img src="asset/tampilan-card-desktop.jpg" width="50%" />](asset/tampilan-card-desktop.jpg)
 
 dan setiap card nya, saya mau lebar minimumnya 15em. tidak boleh kurang dari itu, karena nanti bakal tidak bagus tampilannya, karena terlalu langsing :v
