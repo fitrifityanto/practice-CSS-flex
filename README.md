@@ -10,3 +10,5 @@ di Repository practice-css-flexbox, seperti namanya, saya akan menyimpan latihan
 
 jika nantinya bisa bermanfaat buat yang baca github saya ini, alhamdulillah.
 
+Untuk latihan yang pertama, adalah penggunaan flexbox dalam membuat [Cards Testimoni](https://fitrifityanto.github.io/practice-CSS-flex/cards-flex/).
+
