@@ -6,7 +6,7 @@ Disini saya akan mencoba mempraktekkannya. Untuk menjadi perhatian, bahwa saya b
 
 Oke, misalnya saya punya 3 card testimoni seperti ini
 
-[<img src="asset/tampilan-card-desktop.jpg" width="50%" />](asset/tampilan-card-desktop.jpg)
+[<img src="asset/tampilan-card-desktop.jpg" width="75%" />](asset/tampilan-card-desktop.jpg)
 
 dan setiap card nya, saya mau lebar minimumnya 15em. tidak boleh kurang dari itu, karena nanti bakal tidak bagus tampilannya, karena terlalu langsing :v
 
@@ -22,7 +22,7 @@ flex-wrap: wrap;
 ```
 Tapi, settingan itu belum selesai, kita lihat tampilannya akan seperti ini
 
-[<img src="asset/responsive-card-1.gif" width="50%" />](asset/responsive-card-1.gif)
+[<img src="asset/responsive-card-1.gif" width="70%" />](asset/responsive-card-1.gif)
 
 lalu masih ada baris code yang harus saya tambahkan agar tampilannya seperti yang saya inginkan. Masing-masing card saya tentukan lebar yang saya inginkan, ini akan saya tulis pada class `.cards` 
 ```css
@@ -32,7 +32,7 @@ Sip, lebar kartunya 15em. Agar semua card ditengah, saya tambahkan code `justify
 
 tapi responsive-nya ngga bagus nih tampilannya,
 
-[<img src="asset/responsive-card-2.gif" width="50%" />](asset/responsive-card-2.gif)
+[<img src="asset/responsive-card-2.gif" width="70%" />](asset/responsive-card-2.gif)
 
 kurang menarik kan?
 
@@ -50,9 +50,9 @@ flex: 1 1 15em;
 ```
 width nya ngga usah di atur lagi, karena sudah digantikan oleh nilai `flex-basis`.
 
-[<img src="asset/responsive-card-3.gif" width="50%" />](asset/responsive-card-3.gif).
+[<img src="asset/responsive-card-3.gif" width="70%" />](asset/responsive-card-3.gif).
 
-Cek [Demo Cards Flexbox](https://fitrifityanto.github.io/practice-CSS-flex/cards-flex/cards-flex.html)
+Cek [Demo Cards Flexbox](https://fitrifityanto.github.io/practice-CSS-flex/cards-flex/cards-flex.html) | [Source code Cards Flexbox](https://github.com/fitrifityanto/practice-CSS-flex/tree/main/cards-flex)
 
 
 
